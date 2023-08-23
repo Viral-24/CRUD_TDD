@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_1114338_my_dev_0.admin" name="x_1114338_my_dev_0.admin">a8458a424774f11001f42398c26d4358</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-23 05:53:41</sys_created_on>
+        <sys_id>e4458a424774f11001f42398c26d435a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a8458a424774f11001f42398c26d4358</sys_name>
+        <sys_package display_value="My DevOps" source="x_1114338_my_dev_0">a0458a424774f11001f42398c26d4353</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My DevOps">a0458a424774f11001f42398c26d4353</sys_scope>
+        <sys_update_name>sys_embedded_help_role_e4458a424774f11001f42398c26d435a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-23 05:53:41</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
